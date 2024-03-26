@@ -1,7 +1,13 @@
+
+<!-- GIF -->
+<p align="left">
+    <img align="left" src="https://github.com/dannitoo/dannitoo/assets/128623047/06eba6d9-8b95-4800-a217-a4d79c2ee51e)" alt="Imagem">
+</p>
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Bem-vindo!</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -23,7 +29,6 @@
 </details>
 
 <!-- Links -->
-[![Discord](https://img.shields.io/badge/Discord-20BEFF?style=for-the-badge&logo=Discord&logoColor=blue)](https://www.kaggle.com/variablebee)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)]((https://twitter.com/hihitomate))
 [![Steam](https://img.shields.io/badge/Steam-F5F5F5?style=for-the-badge&logo=Steam&logoColor=black)]((https://steamcommunity.com/profiles/76561198359741018/))
 <!-- GithubStats -->
