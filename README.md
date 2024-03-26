@@ -29,8 +29,8 @@
 </details>
 
 <!-- Links -->
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)]((https://twitter.com/hihitomate))
-[![Steam](https://img.shields.io/badge/Steam-F5F5F5?style=for-the-badge&logo=Steam&logoColor=black)]((https://steamcommunity.com/profiles/76561198359741018/))
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/hihitomate)
+[![Steam](https://img.shields.io/badge/Steam-F5F5F5?style=for-the-badge&logo=Steam&logoColor=black)](https://steamcommunity.com/profiles/76561198359741018/)
 <!-- GithubStats -->
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=dannitoo&show_icons=true&theme=gotham)
